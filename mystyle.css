@@ -1,0 +1,37 @@
+.hero {
+  background: linear-gradient(to right, #cbb6ca, #f0daea);
+}
+
+.card-title {
+  color: hsl(300, 4%, 5%);
+}
+
+footer {
+  background-color: #d493be;
+}
+.hero{
+  background-image: url(our_mission_2.webp);
+  padding: 300px 0;
+  background-size: cover;
+  background-position:top center;
+  text-align: center;
+}
+#features1{
+  background-color:rgb(246, 198, 180);
+}
+#features{
+  background-color:rgb(246, 198, 180);
+}
+.section3{
+  text-align: center;
+  padding: 10px;
+}
+.section9{
+  text-align: center;
+  background-color:rgb(235, 155, 125);
+  padding: 12px;
+}
+#features11{
+  background-color:rgb(246, 198, 180);
+  padding: 12px; ;
+}
